@@ -1,0 +1,9 @@
+GUIDA PER AGGIUNGERE NUOVI DATI
+
+1. Inserire i dati relativi agli ordini che si vogliono considerare nel foglio “Ordini”
+2. Inserire le partite associate agli ordini considerati nel foglio “Ordine-Partita”
+3. Inserire lo spessore delle partite nel foglio “Partita-Spessore”
+4. Inserire le misure del proiettore di profili, dello strumento digitale e del righello di precisione rispettivamente nei fogli “Misure Laboratorio”, “Misure Macchinario“ e “Misure Righello”
+5. Chiudere il file xlsx
+6. Modificare il percorso della cartella di lavoro (riga 21) ed eseguire lo script “Manipolazione dati.R”  
+7. Modificare il percorso della cartella di lavoro (riga 27) ed eseguire lo script “Analisi.R”
